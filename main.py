@@ -40,6 +40,4 @@ def get_all_providers():
     df = pd.DataFrame(rows_list)
     return df
 
-# [ ] - create a function that gets kyruusId's not in the database
-# [ ] - create a function that repeats the above process only for new kyruusId's
 
